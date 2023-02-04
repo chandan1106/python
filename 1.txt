@@ -1,0 +1,18 @@
+#longest common substringd between 2 atrings
+
+
+def longestsubstring(s1, s2):
+	answer=0
+	
+
+	for i in range(len(s1)):
+      	for i in range(len(s2):
+			k=0
+			while((i+k)<len(s1) and (j+k)<len(s2) and s1[i+k]==s2[j+k]:
+				k=k+1
+			answer=max(answer,k);
+	return answer
+
+a=input()
+b=input()
+longestsubstring(a,b)
