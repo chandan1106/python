@@ -1,0 +1,15 @@
+python function thst takes a list of integers and  returns a tuple of 2 integers that adds upto target number
+
+target=int(input())
+n=int(input("enter the number of elements in list"))
+a=[]
+for i in a[n]:
+	a.append[i]
+
+if n ==0:
+	print("empty list")
+else:
+	for j in a[]:
+ 		for j+1 in a[];
+			if a[j]+a[j+1]==target:
+				print(a[j], a[j+1])
